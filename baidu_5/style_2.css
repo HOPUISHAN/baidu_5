@@ -1,0 +1,29 @@
+.container{
+    margin: 10px;
+    padding: 10px 0 10px;
+    
+}
+.titl{
+    float: left;
+    width: 20%;
+    height: 820px;
+    background-color: dodgerblue;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    font-size: 25px;
+}
+.right{
+    float: left;
+    padding-left: 25px;
+}
+.t1{
+    font-size: 26px;
+}
+.t2,.t3{
+    font-weight: bold;
+    font-size: 18px;
+}
+span,p{
+    font-weight: lighter;
+}
